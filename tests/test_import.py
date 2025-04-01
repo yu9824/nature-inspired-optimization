@@ -2,5 +2,5 @@
 
 
 def test_import():
-    import python_template.logging
-    import python_template.utils
+    import nature_inspired_optimization.logging
+    import nature_inspired_optimization.utils
